@@ -1,4 +1,4 @@
-# Augmented Reality-Based Online Furniture Store
+# FurniARt - Augmented Reality-Based Online Furniture Store
 
 This repository contains all the documents and materials related to my Final Year Project (FYP) on developing an Augmented Reality (AR)-based Online Furniture Store. This project aims to revolutionize the online shopping experience by allowing customers to visualize and interact with 3D furniture models in their physical environment.
 
