@@ -22,7 +22,6 @@ The advent of AR technology offers innovative opportunities to enhance e-commerc
 ### Presentations
 - **30% Presentation**: Overview of project progress and initial findings.
 - **60% Presentation**: Mid-project review with detailed demos and near-completion review showcasing most functionalities.
-- **90% Presentation**: Near-completion review showcasing most functionalities.
 - **Final Presentation**: Comprehensive project demonstration and findings.
 
 ### Timeline
@@ -37,7 +36,7 @@ The advent of AR technology offers innovative opportunities to enhance e-commerc
 
 #### Milestone 5: 60% Presentation
 
-#### Milestone 7: Final Presentation
+#### Milestone 6: Final 100% Presentation
 
 ## Tools and Technologies
 - **Frontend**: React.js, Next.js, Three.js
